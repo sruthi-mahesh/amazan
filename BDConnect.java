@@ -1,4 +1,6 @@
+
 i am updating this line for stash commands..
+updated in stage branch...
 i am updating in  development branch
 I am updating  this file
 Hello guys...
