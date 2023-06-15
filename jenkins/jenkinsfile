@@ -11,9 +11,19 @@ pipeline{
 		}
 		stage('test'){
 		         steps{
-			        sh 'echo Test'
+			        sh 'echo Test'		
 
 				}
 			}	
+		stage('deploy'){
+		           steps{
+			          
+				  sh 'echo DEPLOY'
+		
+		}
+				  
+
+
+	          }
     }
 }
